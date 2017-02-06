@@ -21,12 +21,19 @@ div#top h1 {
 div#top li {
     display: inline;
     float: right;
-    padding: 5px;
+    padding: 5px 10px;
     border-left: inset 1px #dddddd;
     color: #dddddd;
 }
 #links li:last-child {
     border-left: none;
+}
+#links a {
+    text-decoration: none;
+    color: #dddddd;
+}
+#links a:hover {
+    color: #4aaaa5;
 }
 h1 {
     color: white;
