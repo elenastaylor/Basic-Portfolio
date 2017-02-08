@@ -63,7 +63,7 @@ h3 {
     border: 1px transparent;
     padding: 10% 20% 55% 20%;
     position: relative;
-    background-image: url("/Basic-Portfolio/assets/images/grey.jpg");
+    background-image: url("../images/grey.jpg");
     font-family: Georgia, Times, "Times New Roman", serif;
 }
 img {
